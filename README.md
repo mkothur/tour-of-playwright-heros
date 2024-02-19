@@ -1,9 +1,9 @@
 # tour-of-playwright-heros
 
-# clone the repo
+### clone the repo
 
-## `npm install`
+#### npm install
 
-## `npm run start`
+#### npm run start
 
-## `npm run e2e`
+#### npm run e2e
