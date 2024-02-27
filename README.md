@@ -19,6 +19,10 @@ Playwright is a platform which we can use to help us with end-to-end testing. It
    1. Follow the below steps to install Playwright using the VS Code extension:
        - Create a folder for your project
        - Ensure to open this folder in vs code
+       - Install `Playwright Test for VSode` Extension
+         
+         <img width="395" alt="image" src="https://github.com/mkothur/tour-of-playwright-heros/assets/53789187/84960704-1f4b-42d6-8a04-bd709ed2d9f2">
+
        - open the ‘Command palette’ under the ‘View’ tab, and type ‘install Playwright.’ Ensure you have created a folder for your project, which is currently open in VS Code, as this is where the new Playwright files will be generated.
          <img width="383" alt="image" src="https://github.com/mkothur/tour-of-playwright-heros/assets/53789187/0778c491-1140-4bdc-8171-ff33b5a18492">
        - After selecting this, you’ll be presented with the following dropdown options, where you can choose which browsers to install. You can also add GitHub Actions, which will generate a YAML build file for you.
