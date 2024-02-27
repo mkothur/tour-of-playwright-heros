@@ -44,6 +44,28 @@ Playwright is a platform which we can use to help us with end-to-end testing. It
       - After following these steps, you’ll have a similar project structure as the VS Code extension workflow. The only difference is that the command line installation offers slightly more customization in choosing between JavaScript and TypeScript, and test folder location.
     
  ##### playwright.config.js: This is where you can add configuration for Playwright, including modifying which browsers you would like to run Playwright on.
+
+ ### Browsers Supported
+   - supports three major web browsers:
+   - Chromium (Google Chrome)
+   - Firefox
+   - WebKit (Safari)
+
+ ## Key Elements
+   - Cross-Browser Testing
+   - Writing Scripts
+   - Page and Browser Objects
+   - Selectors
+   - Async/Await
+   - Wait for Elements and Navigation
+   - Interactions and Input
+   - Screenshots and Videos
+   - Device Emulation
+   - Parallel Execution
+   - Integration with Testing Frameworks
+   - Continuous Integration (CI) Support
+   - Headless and Headful Mode
+   - Error Handling
      
   
 
